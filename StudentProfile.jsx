@@ -13,4 +13,4 @@ return (
 </section>
 );
 }
-export default StudentProfile
+export default StudentProfile;
